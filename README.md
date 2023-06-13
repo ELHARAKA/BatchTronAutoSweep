@@ -2,25 +2,33 @@
 
 <p>BatchTronAutoSweep is a powerful script that automates the process of transferring TRX balances from multiple private keys to a designated destination address. With seamless integration with TronWeb and file input support, it simplifies the sweeping of funds from various wallets, saving time and effort.</p>
 
-<h2>Features</h2>
+<h1>BatchTronAutoSweep - Demo Version</h1>
 
-<ul>
-  <li>Automated sweeping of TRX balances from multiple private keys to a destination address</li>
-  <li>Integration with TronWeb for smooth transaction handling</li>
-  <li>Easy-to-use file input support for private keys</li>
-  <li>Real-time balance detection for efficient fund management</li>
-  <li>Error handling and logging for enhanced reliability</li>
-</ul>
+<p>This demo script in this repo demonstrates an auto-sweeping functionality for Tron (TRX) wallets. It reads a list of wallet addresses from a file, simulates balance retrieval, and transfers any available funds to a designated destination address. It is a proof of concept and doesn't involve real TRX balances or transactions.</p>
 
-## Private TRX Auto-Sweep Script
+<h2>Usage</h2>
 
-This script is a private script designed for sweeping TRX balances from multiple private keys to a destination wallet. Please note that this script is not open-source and is only available for sale.
+<p>To run the demo, follow these steps:</p>
 
-The script continuously checks the balances of the source addresses every 60 seconds and automatically sends out the available funds to the specified destination wallet. The process will continue unless the user stops the script manually.
+<ol>
+  <li>Clone the repository or download the demo script.</li>
+  <li>Make sure you have Node.js installed on your system.</li>
+  <li>Open a terminal or command prompt in the directory where the script is located.</li>
+  <li>Install the required dependencies by running the command: <code>npm install tronweb</code></li>
+  <li>Update the <code>demowallets.txt</code> file with the desired wallet addresses.</li>
+  <li>Run the script using the command: <code>node multitronsweepdemo.js</code></li>
+</ol>
 
-For inquiries regarding the purchase of this script, please contact me at [fahd@web3dev.ma](mailto:fahd@web3dev.ma) or [via Telegram](https://t.me/Thisiswhosthis).
+<h2>Disclaimer</h2>
+
+<p>This script is a demo version provided for evaluation purposes only. It does not interact with real TRX balances or perform actual transactions. Use this demo script to understand the functionality before implementing it in a production environment.</p>
 
 
+<h2>Features - Full Version</h2>
+<p>The full version of the BatchTronAutoSweep script offers a comprehensive set of features to simplify and streamline the management of TRX balances. It enables automated sweeping of TRX balances from multiple private keys to a designated destination address. The integration with TronWeb ensures seamless transaction handling, providing a smooth and reliable experience.</p>
+<p>With easy-to-use file input support, you can conveniently provide the private keys of the source wallets, allowing for efficient management of multiple wallets in one go. The script also includes real-time balance detection, which automatically retrieves and updates the balances of the source addresses, enabling efficient fund management.</p>
+<p>To ensure reliability, the full version of the script incorporates error handling and logging mechanisms. This ensures that any errors or issues encountered during the sweeping process are properly handled and logged, providing visibility into the script's operation.</p>
+<p>Please note that the full version of BatchTronAutoSweep is not available as an open-source project. For inquiries regarding the purchase of the full version, please contact the developer at <a href="mailto:fahd@web3dev.ma">fahd@web3dev.ma</a> or <a href="https://t.me/Thisiswhosthis">via Telegram</a>.</p>
 <h2>Usage</h2>
 
 <ol>
