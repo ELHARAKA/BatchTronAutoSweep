@@ -12,15 +12,14 @@
   <li>Error handling and logging for enhanced reliability</li>
 </ul>
 
-# NOT Open-Source
+## Private TRX Auto-Sweep Script
 
 This script is a private script designed for sweeping TRX balances from multiple private keys to a destination wallet. Please note that this script is not open-source and is only available for sale.
 
-**Disclaimer:** This script is for sale and not freely accessible. If you are interested in purchasing this script, please contact me for more information.
-
-## Contact Information
+The script continuously checks the balances of the source addresses every 60 seconds and automatically sends out the available funds to the specified destination wallet. The process will continue unless the user stops the script manually.
 
 For inquiries regarding the purchase of this script, please contact me at [fahd@web3dev.ma](mailto:fahd@web3dev.ma) or [via Telegram](https://t.me/Thisiswhosthis).
+
 
 <h2>Usage</h2>
 
