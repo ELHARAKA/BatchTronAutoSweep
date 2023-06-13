@@ -12,7 +12,7 @@
   <li>Error handling and logging for enhanced reliability</li>
 </ul>
 
-# BatchTronAutoSweep
+# NOT Open-Source
 
 This script is a private script designed for sweeping TRX balances from multiple private keys to a destination wallet. Please note that this script is not open-source and is only available for sale.
 
