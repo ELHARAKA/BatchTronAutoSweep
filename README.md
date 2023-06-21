@@ -15,7 +15,7 @@
   <li>Make sure you have Node.js installed on your system.</li>
   <li>Open a terminal or command prompt in the directory where the script is located.</li>
   <li>Install the required dependencies by running the command: <code>npm install tronweb</code></li>
-  <li>Update the <code>demowallets.txt</code> file with the desired wallet addresses.</li>
+  <li>Update the <code>demowallets.txt</code> file with the desired wallet private keys.</li>
   <li>Run the script using the command: <code>node multitronsweepdemo.js</code></li>
 </ol>
 
