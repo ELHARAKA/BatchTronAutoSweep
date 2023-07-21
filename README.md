@@ -20,7 +20,7 @@
 </ol>
 
 <h2>Please note</h2>
-<p>This script is a demo version provided for evaluation purposes only. It does not interact with real TRX balances or perform actual transactions. Use this demo script to understand the functionality before implementing it in a production environment.</p>
+<p>This script is a demo version provided for evaluation purposes only. It does not interact with real TRX balances or perform actual transactions. Use this demo script to understand the functionality.</p>
 
 
 <h2>Features - Full Version</h2>
