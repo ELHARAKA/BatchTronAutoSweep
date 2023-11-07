@@ -12,7 +12,7 @@
 
 <ol>
   <li>Clone the repository or download the demo script.</li>
-  <li>Make sure you have Node.js installed on your system.</li>
+  <li>Make sure you have Node > 14 installed on your system.</li>
   <li>Open a terminal or command prompt in the directory where the script is located.</li>
   <li>Install the required dependencies by running the command: <code>npm install tronweb</code></li>
   <li>Update the <code>demowallets.txt</code> file with the desired wallet private keys.</li>
