@@ -44,7 +44,7 @@
 <h2>Usage</h2>
 <ol>
   <li>Clone the repository.</li>
-  <li>Install the required dependencies using <code>npm install tronweb</code>.</li>
+  <li>Install the required dependencies using <code>npm install tronweb</code>.</li> make sure you have node version > 14.
   <li>Prepare a <code>wallets.txt</code> file with the private keys of the source wallets.</li>
   <li>Customize the <code>destinationAddress</code> variable in <code>BatchTronAutoSweep.js</code> with your desired destination wallet address.</li>
   <li>Run the script using <code>node BatchTronAutoSweep.js</code>.</li>
